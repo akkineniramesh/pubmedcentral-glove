@@ -1,7 +1,7 @@
 # pubmedcentral-glove
 Glove applied to Pubmed Central BioC Corpus
 
-We all want to read a lot of research papers but do not have enough time. It is now possible to consider all the evidence in a lot of research papers without much effort. You can confirm your hunch faster and proceed to invest more of your time on promising ideas.
+We all want to read a lot of research papers but do not have enough time. It is now possible to consider all the evidence in a lot of research papers in Pubmed Central without much effort. You can confirm your hunch faster and proceed to invest more of your time on promising ideas.
 
 This small Ipython notebook shows how to use Glove Algorithm http://nlp.stanford.edu/projects/glove/ to analyze PubmedCentral BioC Corpus with almost no effort.
 Steps:
