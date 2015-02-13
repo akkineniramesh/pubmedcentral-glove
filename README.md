@@ -9,7 +9,6 @@ Steps:
 2. download and install glove-python from https://github.com/maciejkula/glove-python
 3. download ascii.A-B.tar.gz and BioC.dtd from ftp://ftp.ncbi.nlm.nih.gov/pub/wilbur/BioC-PMC/
 4. use command 'ipython notebook' to run the notebook
-5. 
 
 
 License : Apache 2.0 License
