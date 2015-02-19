@@ -10,10 +10,10 @@ Steps:
 3. download ascii.A-B.tar.gz and BioC.dtd from ftp://ftp.ncbi.nlm.nih.gov/pub/wilbur/BioC-PMC/
 4. use command 'ipython notebook' to run the notebook
 
-Use the python3.4 files for applying Glove to whole of BioC Corpus at once. Needs lots of RAM, I used n1-highmem-16 instance of Google compute and Anaconda python3.4 distribution. To run in background, I used the command:
+Use the python3.4 files for applying Glove to whole of BioC Corpus at once. Needs lots of RAM, I used n1-highmem-16 instance of Google compute and Anaconda python3.4 distribution. To run in background, we can use the command:
 
 
-nohup python pubmedcentral-corpus-py34.py > /dev/null 2>&1 &
+nohup python pubmedcentral-corpus-py34.py >> pmccorpus-1.log 2>&1 &
 
 
 
